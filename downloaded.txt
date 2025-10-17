@@ -1,0 +1,15 @@
+Project: Cloud File Storage System
+Author: Makanjuola Kehinde
+Date: 2025-10-17
+
+Description:
+This file demonstrates the upload and management
+of files in a simple cloud storage system using
+Azure Blob Storage and Bash CLI scripts.
+
+Features:
+- Upload files to cloud storage
+- Download files from cloud storage
+- List files in the storage container
+- Delete files from the storage
+- Logging all operations for tracking
